@@ -1,0 +1,76 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#00D4FF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7B2FBE" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0D1117"  stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#00D4FF"  stop-opacity="0.9"/>
+      <stop offset="70%"  stop-color="#7B2FBE"  stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0D1117"  stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur1">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="blur2">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="180" fill="url(#bg)"/>
+
+  <!-- Glow blobs -->
+  <ellipse cx="160" cy="60"  rx="180" ry="70"  fill="#00D4FF" opacity="0.08" filter="url(#blur1)"/>
+  <ellipse cx="740" cy="120" rx="180" ry="70"  fill="#7B2FBE" opacity="0.10" filter="url(#blur1)"/>
+  <ellipse cx="450" cy="90"  rx="260" ry="90"  fill="url(#glow1)" filter="url(#blur2)"/>
+
+  <!-- Dot grid decoration -->
+  <g opacity="0.08" fill="#00D4FF">
+    <circle cx="30"  cy="30"  r="1.5"/><circle cx="60"  cy="30"  r="1.5"/>
+    <circle cx="30"  cy="60"  r="1.5"/><circle cx="60"  cy="60"  r="1.5"/>
+    <circle cx="30"  cy="90"  r="1.5"/><circle cx="60"  cy="90"  r="1.5"/>
+    <circle cx="840" cy="90"  r="1.5"/><circle cx="870" cy="90"  r="1.5"/>
+    <circle cx="840" cy="120" r="1.5"/><circle cx="870" cy="120" r="1.5"/>
+    <circle cx="840" cy="150" r="1.5"/><circle cx="870" cy="150" r="1.5"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <path d="M20,20 L20,10 L30,10"   stroke="#00D4FF" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M870,10 L880,10 L880,20" stroke="#7B2FBE" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M20,160 L20,170 L30,170" stroke="#00D4FF" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M870,170 L880,170 L880,160" stroke="#7B2FBE" stroke-width="2" fill="none" opacity="0.5"/>
+
+  <!-- Main Name -->
+  <text x="450" y="78"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="48" font-weight="700" letter-spacing="3"
+        fill="white" text-anchor="middle"
+        style="text-shadow: 0 0 20px #00D4FF;">
+    Abdou Temsah
+  </text>
+
+  <!-- Glowing underline -->
+  <rect x="250" y="88" width="400" height="2" rx="1" fill="url(#line)"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="118"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="16" letter-spacing="1"
+        fill="#00D4FF" text-anchor="middle" opacity="0.9">
+    🤖  AI &amp; ML Engineer in the Making  |  Egypt 🇪🇬
+  </text>
+
+  <!-- Tech tags -->
+  <text x="450" y="150"
+        font-family="'Courier New', monospace"
+        font-size="13" letter-spacing="2"
+        fill="#7B2FBE" text-anchor="middle" opacity="0.85">
+    ▸  Python  ·  C++  ·  Java  ·  Machine Learning  ·  SQL  ◂
+  </text>
+</svg>
