@@ -1,10 +1,32 @@
 <div align="center">
 
-<!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FBE&height=200&section=header&text=Abdou%20Temsah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20%26%20ML%20Engineer%20in%20the%20Making%20|%20Egypt%20🇪🇬&descSize=17&descAlignY=55"/>
+<!-- ═══════════════════ HEADER — Reliable SVG ═══════════════════ -->
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#0D1117"/>
+      <stop offset="50%"  style="stop-color:#00D4FF;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#7B2FBE"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   style="stop-color:#00D4FF;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#7B2FBE;stop-opacity:0.5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="#0D1117"/>
+  <ellipse cx="450" cy="220" rx="500" ry="100" fill="url(#wave)"/>
+  <ellipse cx="200" cy="-20" rx="300" ry="80" fill="#00D4FF" opacity="0.07"/>
+  <text x="450" y="90" font-family="Arial, sans-serif" font-size="46" font-weight="bold"
+        fill="white" text-anchor="middle">Abdou Temsah</text>
+  <text x="450" y="135" font-family="Arial, sans-serif" font-size="17"
+        fill="#00D4FF" text-anchor="middle">🤖 AI &amp; ML Engineer in the Making | Egypt 🇪🇬</text>
+  <line x1="200" y1="155" x2="700" y2="155" stroke="#00D4FF" stroke-width="1" opacity="0.4"/>
+  <text x="450" y="175" font-family="Arial, sans-serif" font-size="13"
+        fill="#7B2FBE" text-anchor="middle">▸ Python · C++ · Machine Learning · SQL ◂</text>
+</svg>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Future+AI+%26+ML+Engineer+from+Egypt;💻+Problem+Solver+|+77%2B+Codeforces+%7C+33%2B+LeetCode;🐍+Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+ML;🔥+Consistency+is+My+Superpower)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Future+AI+%26+ML+Engineer+from+Egypt;💻+Problem+Solver+|+77%2B+Codeforces+%7C+33%2B+LeetCode;🐍+Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+ML;🔥+Consistency+is+My+Superpower)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -75,7 +97,7 @@ abdou = {
 
 <div align="center">
 
-| Platform | Problems Solved | Languages Used |
+| Platform | Solved | Languages |
 |:---:|:---:|:---:|
 | ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) | **77+ Problems** ✅ | C++ · Python |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) | **33+ Problems** ✅ | Python · C++ |
@@ -100,11 +122,18 @@ abdou = {
 
 ---
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-## 🏆 GitHub Trophies
+<!-- ═══════════════════ ACHIEVEMENTS (shields.io — always works) ═══════════════════ -->
+## 🏅 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=temsah-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
+
+![Codeforces](https://img.shields.io/badge/Codeforces-77%2B%20Problems%20Solved-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-33%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Languages](https://img.shields.io/badge/Languages-4%20(C%2B%2B%20%7C%20Java%20%7C%20Python%20%7C%20SQL)-00D4FF?style=for-the-badge&logo=codepen&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white)
+![Learning](https://img.shields.io/badge/Currently-Learning%20ML%20%26%20AI-7B2FBE?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Repos](https://img.shields.io/badge/Projects-3%20GitHub%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
@@ -139,8 +168,8 @@ abdou = {
 [![GitHub](https://img.shields.io/badge/GitHub-temsah--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/temsah-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdou%20Temsah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temsaha52022a1)
 [![Gmail](https://img.shields.io/badge/Gmail-temsah.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:temsah.dev@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_HANDLE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/YOUR_LC_HANDLE)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Abdou_Temsah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/TemsahCode)
 
 </div>
 
@@ -157,6 +186,13 @@ abdou = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=temsah-dev&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D4FF,100:0D1117&height=130&section=footer"/>
+<!-- Footer wave using shields.io compatible approach -->
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║   Thanks for visiting! Let's build the future with AI   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
