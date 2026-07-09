@@ -32,7 +32,7 @@ abdou = {
 - 🧠 **Problem Solver:** **77+ Codeforces** · **33+ LeetCode** (C++ & Python)
 - 📚 **Studied:** Python · ML · SQL & Databases · OOP
 - 💻 **Projects:** C++ & Java projects on GitHub
-- 🔥 **2025 Goal:** Ship my **first ML project** & hit **200+ problems**
+- 🔥 **2026 Goal:** Ship my **first ML project** & hit **200+ problems**
 
 <br clear="right"/>
 
