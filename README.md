@@ -57,8 +57,8 @@ Based in Egypt, currently open to internships and entry-level AI/ML roles.
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/Student-Management-System)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/library-management-system)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=Student-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/Student-Management-System)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=library-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/library-management-system)
 
 </div>
 
