@@ -57,8 +57,21 @@ Based in Egypt, currently open to internships and entry-level AI/ML roles.
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats-one-ivory-iv7u1nkng7.vercel.app/api/pin/?username=temsah-dev&repo=Student-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/Student-Management-System)
-[![Project 2](https://github-readme-stats-one-ivory-iv7u1nkng7.vercel.app/api/pin/?username=temsah-dev&repo=library-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/library-management-system)
+<a href="https://github.com/temsah-dev/Student-Management-System">
+  <img
+    src="https://github-readme-stats-one-ivory-iv7u1nkng7.vercel.app/api/pin?username=temsah-dev&repo=Student-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"
+    alt="Student Management System"
+    width="400"
+  />
+</a>
+
+<a href="https://github.com/temsah-dev/library-management-system">
+  <img
+    src="https://github-readme-stats-one-ivory-iv7u1nkng7.vercel.app/api/pin?username=temsah-dev&repo=library-management-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"
+    alt="Library Management System"
+    width="400"
+  />
+</a>
 
 </div>
 
