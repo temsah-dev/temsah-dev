@@ -57,12 +57,10 @@ Based in Egypt, currently open to internships and entry-level AI/ML roles.
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/REPO_NAME_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/REPO_NAME_2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/Student-Management-System)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/library-management-system)
 
 </div>
-
-> 📝 **TODO:** swap `REPO_NAME_1` / `REPO_NAME_2` for two real repos. This card pulls live stars, forks, and language data straight from GitHub, so it stays accurate automatically. It's also the highest-impact change available on this page, ahead of any badge or animation.
 
 ---
 
@@ -72,12 +70,10 @@ Based in Egypt, currently open to internships and entry-level AI/ML roles.
 
 | Platform | Solved | Rating | Languages |
 |:---:|:---:|:---:|:---:|
-| [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Abdou_Temsah) | 77+ | _add rating_ | C++, Python |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Abdou_Temsah) | 77+ | — | C++, Python |
 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/TemsahCode) | 33+ | — | Python, C++ |
 
 </div>
-
-> 📝 **TODO:** add your Codeforces rank (e.g. Pupil, Specialist) next to the count. To anyone who's done competitive programming, rating says more than raw problems solved.
 
 ---
 
@@ -120,6 +116,5 @@ Based in Egypt, currently open to internships and entry-level AI/ML roles.
 
 <div align="center">
 
-Building in public. This page updates as real projects ship.
 
 </div>
