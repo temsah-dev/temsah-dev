@@ -1,59 +1,40 @@
 <div align="center">
 
-<!-- ═══ BANNER — upload banner.svg to this same repo ═══ -->
-<img width="100%" src="./banner.svg" alt="Abdou Temsah Banner"/>
+<img width="100%" src="./banner.svg" alt="Abdou Temsah — CS student building toward AI/ML"/>
 
 <br/>
 
-<!-- ═══ TYPING ANIMATION ═══ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=55&lines=🚀+Future+AI+%26+ML+Engineer+from+Egypt;🧠+77%2B+Codeforces+%7C+33%2B+LeetCode;🐍+Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+ML;🔥+Consistency+is+My+Superpower)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Competitive+programmer+%7C+77%2B+CF+%2F+33%2B+LC+solved;Learning+the+ML+stack%3A+NumPy+-+Pandas+-+scikit-learn;Shipping+my+first+ML+project+in+2026)](https://github.com/temsah-dev)
+
+![Status](https://img.shields.io/badge/status-open%20to%20opportunities-22c55e?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 Hello, World! I'm Abdou
+## About
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I'm a CS student in Egypt building toward a career in AI/ML. Right now that means daily reps in C++ and Python, structured problem-solving on Codeforces and LeetCode, and working through the ML fundamentals before shipping something real.
 
-```python
-abdou = {
-  "name"      : "Abdou Temsah",
-  "location"  : "Egypt 🇪🇬",
-  "role"      : "CS Student → Future AI/ML Engineer",
-  "skills"    : ["C++","Java","Python","SQL","ML"],
-  "solving"   : "CF 77+ | LC 33+ Problems 🧠",
-  "goal"      : "Build Real-World AI Projects 🚀",
-  "mindset"   : "Consistency beats talent 💪",
-}
-```
+- **Sharpening fundamentals:** 77+ Codeforces problems, 33+ LeetCode problems, mostly in C++ and Python
+- **Learning the ML stack:** NumPy, Pandas, scikit-learn, TensorFlow
+- **Building:** targeting my first shipped ML project in 2026
 
-- 🎯 **Mission:** Become a **World-Class AI & ML Engineer**
-- 🧠 **Problem Solver:** **77+ Codeforces** · **33+ LeetCode** (C++ & Python)
-- 📚 **Studied:** Python · ML · SQL & Databases · OOP
-- 💻 **Projects:** C++ & Java projects on GitHub
-- 🔥 **2026 Goal:** Ship my **first ML project** & hit **200+ problems**
-
-<br clear="right"/>
+Based in Egypt, currently open to internships and entry-level AI/ML roles.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**💪 Using Daily**
+**Languages**
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**🗄️ Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**🤖 AI / ML (Studied & Learning)**
+**ML & Data**
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -61,8 +42,9 @@ abdou = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-**🔧 Tools**
+**Databases & Tools**
 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -71,26 +53,39 @@ abdou = {
 
 ---
 
-## 🧩 Problem Solving
+## Featured Projects
 
 <div align="center">
 
-| Platform | Solved | Language |
-|:---:|:---:|:---:|
-| [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Abdou_Temsah) | **77+ Problems ✅** | C++ · Python |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/TemsahCode) | **33+ Problems ✅** | Python · C++ |
-
-> *"Solving problems daily — the grind never stops!"* 🔥
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/REPO_NAME_1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=temsah-dev&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)](https://github.com/temsah-dev/REPO_NAME_2)
 
 </div>
 
+> 📝 **TODO:** swap `REPO_NAME_1` / `REPO_NAME_2` for two real repos. This card pulls live stars, forks, and language data straight from GitHub, so it stays accurate automatically. It's also the highest-impact change available on this page, ahead of any badge or animation.
+
 ---
 
-## 📊 GitHub Stats
+## Competitive Programming
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=temsah-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temsah-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"/>
+
+| Platform | Solved | Rating | Languages |
+|:---:|:---:|:---:|:---:|
+| [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Abdou_Temsah) | 77+ | _add rating_ | C++, Python |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/TemsahCode) | 33+ | — | Python, C++ |
+
+</div>
+
+> 📝 **TODO:** add your Codeforces rank (e.g. Pupil, Specialist) next to the count. To anyone who's done competitive programming, rating says more than raw problems solved.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=temsah-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2FBE"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temsah-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF"/>
 </div>
 
 <div align="center">
@@ -99,40 +94,19 @@ abdou = {
 
 ---
 
-## 🏅 Quick Stats
-
-<div align="center">
-
-![CF](https://img.shields.io/badge/Codeforces-77%2B%20Solved-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)
-![LC](https://img.shields.io/badge/LeetCode-33%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Open](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge)
-![ML](https://img.shields.io/badge/Learning-AI%20%26%20ML-7B2FBE?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
----
-
-## 🗺️ AI / ML Roadmap
+## Roadmap
 
 ```
-✅ Phase 1 — CS Foundations   ████████████░░░░  C++ · Java · OOP · DS & Algorithms
-🔄 Phase 2 — Python & Data    ████████░░░░░░░░  Python · SQL · Pandas · NumPy
-🎯 Phase 3 — Machine Learning ░░░░░░██████░░░░  Scikit-Learn · ML Models
-🔮 Phase 4 — Deep Learning    ░░░░░░░░████░░░░  Neural Networks · TensorFlow
-🌟 Phase 5 — Ship AI Products ░░░░░░░░░░░░████  Deploy Real AI to the World
+✅ Phase 1 — CS Foundations   ████████████░░░░  C++, Java, OOP, Data Structures & Algorithms
+🔄 Phase 2 — Python & Data    ████████░░░░░░░░  Python, SQL, Pandas, NumPy
+🎯 Phase 3 — Machine Learning ░░░░░░██████░░░░  scikit-learn, classical ML models
+🔮 Phase 4 — Deep Learning    ░░░░░░░░████░░░░  Neural networks, TensorFlow
+🌟 Phase 5 — Ship AI Products ░░░░░░░░░░░░████  Deploy real projects
 ```
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=temsah-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=7B2FBE&point=ffffff"/>
-</div>
-
----
-
-## 📫 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -144,18 +118,8 @@ abdou = {
 
 </div>
 
----
-
 <div align="center">
 
-> *"An expert is a person who has made all the mistakes that can be made in a very narrow field."* — Niels Bohr
-
-![Views](https://komarev.com/ghpvc/?username=temsah-dev&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-```
-╔═══════════════════════════════════════════════════╗
-║  Thanks for visiting! Let's build AI together 🚀  ║
-╚═══════════════════════════════════════════════════╝
-```
+Building in public. This page updates as real projects ship.
 
 </div>
